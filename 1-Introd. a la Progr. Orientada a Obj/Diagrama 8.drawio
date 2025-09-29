@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="31-rGwck5BEGxAL4ET76">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VO4hAejZHZi-LjAl1Ztc-1" target="VO4hAejZHZi-LjAl1Ztc-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="375" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-15" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="VO4hAejZHZi-LjAl1Ztc-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VO4hAejZHZi-LjAl1Ztc-101" target="VO4hAejZHZi-LjAl1Ztc-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-101" value="Ingresar C" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VO4hAejZHZi-LjAl1Ztc-103" target="VO4hAejZHZi-LjAl1Ztc-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-103" value="F= (C * 9/5) + 32" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VO4hAejZHZi-LjAl1Ztc-105" value="Imprimir F" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
